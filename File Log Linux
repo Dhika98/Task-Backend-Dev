@@ -1,0 +1,1 @@
+$ My tools Get/var/log/nginx/access.log -t text
